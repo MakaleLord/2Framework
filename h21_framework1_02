@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville|Roboto&display=swap" rel="stylesheet">
+    <title>My Songs</title>
+    <link rel="stylesheet" href="/h21_framework1_02/static/style.css">
+  </head>
+  <body>
+
+
+    <div class="container">
+      <h1>Rock Songs</h1>
+      <a href="/h21_framework1_02/"> Rock </a>
+      <a href="/h21_framework1_02/hiphop"> Hip Hop </a>
+      <a href="/h21_framework1_02/pop"> Pop </a>
+     <div class="songs-list">
+       
+       <div class="song" style="background-color: #b8e994">
+         
+         <a href="https://www.youtube.com/watch?v=8pPvNqOb6RA" target="_blank">
+         <img src="/h21_framework1_02/static/heaven.jpg">
+         </a>
+         
+       <h1>Led Zeppelin - Stairway to Heaven</h1>
+         
+        <p>This track was released in 1971</p>
+         
+       </div>
+       
+       <div class="song" style="background-color: #6495ED">
+         
+       <h1>Eagles - Hotel California</h1>
+         
+         <p>No description given.</p>
+         
+       </div>
+       
+    </div>
+   </div>
+  </body>
+</html>
